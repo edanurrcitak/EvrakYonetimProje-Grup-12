@@ -1,0 +1,227 @@
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\kullanici_yonetimi\kullanici_yonetimi\bin\Debug\kullanici_yonetimi.exe.config
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\kullanici_yonetimi\kullanici_yonetimi\bin\Debug\kullanici_yonetimi.exe
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\kullanici_yonetimi\kullanici_yonetimi\bin\Debug\kullanici_yonetimi.pdb
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\kullanici_yonetimi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.AssemblyReference.cache
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\kullanici_yonetimi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\kullanici_yonetimi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.yeni_kullanici.resources
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\kullanici_yonetimi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.Properties.Resources.resources
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\kullanici_yonetimi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.GenerateResource.cache
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\kullanici_yonetimi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\kullanici_yonetimi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.exe
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\kullanici_yonetimi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.pdb
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\kullanici_yonetimi.exe.config
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\kullanici_yonetimi.exe
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\kullanici_yonetimi.pdb
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\Google.Protobuf.dll
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\MySql.Data.dll
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\System.Buffers.dll
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\System.IO.Pipelines.dll
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\System.Memory.dll
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\Google.Protobuf.pdb
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\Google.Protobuf.xml
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\MySql.Data.xml
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\System.Buffers.xml
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\System.IO.Pipelines.xml
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\System.Memory.xml
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\batug\Desktop\kullanici_yonetimi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\batug\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.AssemblyReference.cache
+C:\Users\batug\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\batug\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.exe.config
+C:\Users\batug\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.anasayfa.resources
+C:\Users\batug\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.yeniKullanici.resources
+C:\Users\batug\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.Properties.Resources.resources
+C:\Users\batug\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.GenerateResource.cache
+C:\Users\batug\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\batug\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.CopyComplete
+C:\Users\batug\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.exe
+C:\Users\batug\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.pdb
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\kullanici_yonetimi.exe.config
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\kullanici_yonetimi.exe
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\kullanici_yonetimi.pdb
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\Google.Protobuf.dll
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\MySql.Data.dll
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\System.Buffers.dll
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\System.Memory.dll
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\Google.Protobuf.pdb
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\Google.Protobuf.xml
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\MySql.Data.xml
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\System.Buffers.xml
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\System.Memory.xml
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Edanur\Desktop\kullanici_yonetimi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Edanur\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.AssemblyReference.cache
+C:\Users\Edanur\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edanur\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.exe.config
+C:\Users\Edanur\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.anasayfa.resources
+C:\Users\Edanur\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.yeniKullanici.resources
+C:\Users\Edanur\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.Properties.Resources.resources
+C:\Users\Edanur\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.GenerateResource.cache
+C:\Users\Edanur\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Edanur\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.CopyComplete
+C:\Users\Edanur\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.exe
+C:\Users\Edanur\Desktop\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.pdb
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\kullanici_yonetimi.exe.config
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\kullanici_yonetimi.exe
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\kullanici_yonetimi.pdb
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\Google.Protobuf.dll
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\MySql.Data.dll
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Buffers.dll
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Memory.dll
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\Google.Protobuf.pdb
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\Google.Protobuf.xml
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\MySql.Data.xml
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Buffers.xml
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Memory.xml
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.AssemblyReference.cache
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.exe.config
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.anasayfa.resources
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.yeniKullanici.resources
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.Properties.Resources.resources
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.GenerateResource.cache
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.CopyComplete
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.exe
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.pdb
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\MySqlConnector.dll
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\MySqlConnector.xml
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.kullaniciGirisi.resources
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\kullanici_yonetimi.exe.config
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\kullanici_yonetimi.exe
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\kullanici_yonetimi.pdb
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\Google.Protobuf.dll
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\MySql.Data.dll
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\MySqlConnector.dll
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Buffers.dll
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.IO.Pipelines.dll
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Memory.dll
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\Google.Protobuf.pdb
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\Google.Protobuf.xml
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\MySql.Data.xml
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\MySqlConnector.xml
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Buffers.xml
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.IO.Pipelines.xml
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Memory.xml
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.AssemblyReference.cache
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.exe.config
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.anasayfa.resources
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.yeniKullanici.resources
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.kullaniciGirisi.resources
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.Properties.Resources.resources
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.GenerateResource.cache
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.CopyComplete
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.exe
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.pdb
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.FrmEmanet.resources
+C:\Users\batug\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.FrmEvrak.resources
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\kullanici_yonetimi.exe.config
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\kullanici_yonetimi.exe
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\kullanici_yonetimi.pdb
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\Google.Protobuf.dll
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\MySql.Data.dll
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\MySqlConnector.dll
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Buffers.dll
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Memory.dll
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\Google.Protobuf.pdb
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\Google.Protobuf.xml
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\MySql.Data.xml
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\MySqlConnector.xml
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Buffers.xml
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Memory.xml
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.AssemblyReference.cache
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.exe.config
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.anasayfa.resources
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.FrmEmanet.resources
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.FrmEvrak.resources
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.yeniKullanici.resources
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.kullaniciGirisi.resources
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.Properties.Resources.resources
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.GenerateResource.cache
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.csproj.CopyComplete
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.exe
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.pdb
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.newDepartment.resources
+C:\Users\Edanur\Desktop\evrakArsivYonetimSistemi\kullanici_yonetimi\obj\Debug\kullanici_yonetimi.kullaniciKaydiGiris.resources
